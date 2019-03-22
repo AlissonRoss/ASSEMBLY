@@ -1,2 +1,2 @@
 # ASSEMBLY
-X86 32BIT ASM with Irvine Library
+X86 32BIT MASM with Irvine Library
